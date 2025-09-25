@@ -1,0 +1,6 @@
+covid_model.keras
+# Ignorer modèles lourds
+*.h5
+*.keras
+*.hdf5
+*.ckpt
